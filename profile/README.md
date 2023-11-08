@@ -4,15 +4,15 @@ If you're a nature lover ready to explore the stunning Pyrenees mountains, RefuA
 
 ## Are you a hiker? 🥾⛺
 
-If you're a hiking enthusiast, RefuApp is tailored just for you. Explore our beta version now by visiting [RefuApp's Home Page](https://home.refuapp.pofnet.net)!
+If you're a hiking enthusiast, RefuApp is tailored just for you. Explore our beta version now by visiting [RefuApp's Home Page](https://refuapp.online)!
 
 ## Are you an admin? 👨💼
 
-If you're an administrator, you'll find [the admin page](https://admin.refuapp.pofnet.net) to be your designated space within the app.
+If you're an administrator, you'll find [the admin page](https://admin.refuapp.online) to be your designated space within the app.
 
 ## Are you an supervisor? 🔐🧑‍💻
 
-If you're a supervisor, you'll find [the supervisor page](https://supervisor.refuapp.pofnet.net) to be your security space within the app.
+If you're a supervisor, you'll find [the supervisor page](https://supervisor.refuapp.online) to be your security space within the app.
 
 ## Are you a developer? 👩‍💻👨‍💻
 
